@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">TugasAkhir</string>
+    <string name="app_title">P-BooK</string>
+
+    <string name="title_login">Login Admin</string>
+    <string name="title_register">Registrasi Admin</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_buku">Daftar Buku</string>
+    <string name="title_tambah_buku">Tambah Buku Baru</string>
+    <string name="title_detail_buku">Detail Buku</string>
+    <string name="title_peminjaman">Daftar Peminjaman</string>
+    <string name="title_tambah_peminjaman">Input Peminjaman</string>
+    <string name="title_detail_peminjaman">Detail Peminjaman</string>
+    <string name="title_riwayat">Riwayat Pengembalian</string>
+
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_batal">Batal</string>
+    <string name="msg_error_koneksi">Gagal terhubung ke server MySQL</string>
+
+    <!-- =====================
+          LOGIN
+     ====================== -->
+    <string name="login_title_bar">LOGIN ADMIN</string>
+    <string name="login_title">PERPUSTAKAAN DIGITAL</string>
+    <string name="login_desc">Kelola dunia literasi dalam genggaman Anda.</string>
+    <string name="logo_desc">Ilustrasi Perpustakaan Digital</string>
+
+    <string name="username_hint">Username</string>
+    <string name="nama_pengguna_placeholder">Masukkan username anda</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="kata_sandi_placeholder">Masukkan kata sandi anda</string>
+
+    <string name="btn_login">MASUK SEKARANG</string>
+    <string name="Registrasi_Akun">Belum punya akun?</string>
+    <string name="btn_register">Daftar Akun Baru</string>
+    <string name="back">Kembali</string>
+
+    <!-- =====================
+      REGISTER
+ ====================== -->
+    <string name="register_title">GABUNG BERSAMA KAMI</string>
+    <string name="register_desc">Mulai perjalanan manajemen buku Anda hari ini.</string>
+    <string name="email_hint">Email</string>
+    <string name="kembali_login">Sudah punya akun?</string>
+
+
+    <!-- =====================
+     BUKU
+====================== -->
+    <string name="title_kelola_buku">KELOLA BUKU</string>
+    <string name="hint_search_buku">Cari judul atau penulis...</string>
+    <string name="empty_buku_msg">Belum ada data buku</string>
+    <string name="label_stok">Stok</string>
+    <string name="placeholder_search">Cari buku...</string>
+
+    <string name="desc_tambah_buku">Tambah Buku Baru</string>
+    <string name="desc_kembali">Kembali</string>
+    <string name="desc_detail_buku">Detail Buku</string>
+
+
+    <string name="label_penulis">Penulis</string>
+    <string name="label_penerbit">Penerbit</string>
+    <string name="label_tahun">Tahun Terbit</string>
+    <string name="label_stok_total">Stok Total</string>
+    <string name="label_tersedia">Tersedia</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_hapus">Hapus</string>
+
+    <string name="dialog_delete_title">Hapus Buku?</string>
+    <string name="dialog_delete_msg">Yakin ingin menghapus \'%1$s\'?</string>
+
+    <string name="title_edit_buku">Edit Informasi Buku</string>
+    <string name="hint_judul">Judul Buku</string>
+
+
+    <string name="title_add_book">TAMBAH BUKU</string>
+    <string name="label_judul">Judul Buku</string>
+    <string name="label_tahun_singkat">Tahun</string>
+    <string name="label_stok_singkat">Stok</string>
+    <string name="btn_simpan_buku">Simpan Data Buku</string>
+
+    <string name="error_judul_empty">Judul tidak boleh kosong</string>
+    <string name="error_penulis_empty">Nama penulis harus diisi</string>
+    <string name="error_penerbit_empty">Penerbit tidak boleh kosong</string>
+
+    <string name="desc_back">Kembali</string>
+
+
+
+    <!-- =====================
+     HOME
+====================== -->
+    <string name="welcome_greeting">Selamat Datang,</string>
+    <string name="stat_buku">Buku</string>
+    <string name="stat_dipinjam">Dipinjam</string>
+    <string name="stat_selesai">Selesai</string>
+    <string name="menu_title">Menu Utama</string>
+
+    <string name="menu_manage_books">Manage Books</string>
+    <string name="menu_manage_books_sub">Tambah, edit, dan hapus data koleksi buku</string>
+
+    <string name="menu_manage_loans">Manage Loans</string>
+    <string name="menu_manage_loans_sub">Proses peminjaman buku dan pengembalian buku</string>
+
+    <string name="menu_history_title">Riwayat Peminjaman</string>
+    <string name="menu_history_sub_new">Lihat histori peminjaman buku</string>
+
+    <string name="btn_logout">Keluar Akun</string>
+
+    <!-- =====================
+     PEMINJAMAN
+====================== -->
+    <string name="hint_search_peminjam">Cari nama peminjam...</string>
+    <string name="empty_peminjaman_msg">Belum ada data peminjaman</string>
+    <string name="label_jatuh_tempo">Jatuh Tempo</string>
+    <string name="desc_tambah_peminjaman">Tambah Peminjaman</string>
+
+    <string name="desc_detail">Detail</string>
+
+    <string name="label_buku_dipinjam">Buku Dipinjam</string>
+    <string name="label_email">Email Peminjam</string>
+    <string name="label_tgl_pinjam">Tanggal Pinjam</string>
+    <string name="btn_selesai">Selesai</string>
+
+    <string name="dialog_selesai_title">Selesaikan Peminjaman?</string>
+    <string name="dialog_selesai_msg">Yakin ingin menyelesaikan peminjaman ini? Data akan dipindahkan ke riwayat dan stok buku akan bertambah kembali.</string>
+    <string name="btn_ya_selesai">Ya, Selesai</string>
+
+    <string name="title_edit_peminjam">Edit Informasi Peminjam</string>
+    <string name="label_nama_peminjam">Nama Peminjam</string>
+
+    <string name="title_add_loan">TAMBAH PINJAMAN</string>
+    <string name="label_pilih_buku">Pilih Buku</string>
+    <string name="label_tgl_tempo">Tanggal Jatuh Tempo</string>
+    <string name="btn_simpan_transaksi">Simpan Transaksi</string>
+
+    <string name="error_nama_empty">Nama wajib diisi</string>
+    <string name="error_buku_empty">Harap pilih buku</string>
+    <string name="error_tgl_empty">Tanggal wajib dipilih</string>
+    <string name="error_email_empty">Email wajib diisi</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="stok_format">%1$s (Stok: %2$d)</string>
+
+
+    <!-- =====================
+ Riwayat
+====================== -->
+    <string name="hint_search_riwayat">Cari peminjam atau buku...</string>
+    <string name="empty_riwayat_msg">Data riwayat tidak ditemukan</string>
+    <string name="label_pinjam">Pinjam</string>
+    <string name="label_dikembalikan">Dikembalikan</string>
+
+
+
+</resources>

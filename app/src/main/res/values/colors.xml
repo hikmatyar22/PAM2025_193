@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- =====================
+            WARNA UTAMA (SRS)
+       ====================== -->
+    <color name="primary_blue">#3B5BDB</color>
+    <color name="primary_blue_dark">#2F4EC7</color>
+    <color name="primary_blue_light">#E6EFFF</color>
+
+    <!-- =====================
+         WARNA NETRAL
+    ====================== -->
+
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#616161</color>
+
+    <!-- =====================
+         WARNA BACKGROUND
+    ====================== -->
+    <color name="background">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- =====================
+         WARNA TEKS
+    ====================== -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- =====================
+         WARNA STATUS & ERROR
+    ====================== -->
+    <color name="error_red">#D32F2F</color>
+    <color name="success_green">#388E3C</color>
+    <color name="warning_orange">#F57C00</color>
+
+    <!-- =====================
+         WARNA TOMBOL
+    ====================== -->
+    <color name="button_primary">#3B5BDB</color>
+    <color name="button_primary_text">#FFFFFF</color>
+    <color name="button_secondary">#E6EFFF</color>
+    <color name="button_secondary_text">#3B5BDB</color>
+    <color name="button_danger">#D32F2F</color>
+
+
+</resources>
